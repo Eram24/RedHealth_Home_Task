@@ -46,15 +46,6 @@ Rounding may cause small differences, so we adjust the first agent's value to ma
 ### Step 5: Justification
 Each agent is assigned a textual justification based on performance and seniority.
 
-##  File Structure
-```
-.
-├── discountEngine.js    # Core logic
-├── test.js              # Unit tests
-├── input.json           # Example input
-├── config.json          # Optional min/max config
-├── README.md            # This file
-```
 
 ## 📋 Sample Output
 ```

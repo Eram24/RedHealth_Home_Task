@@ -138,6 +138,7 @@ if (require.main === module) {
 
   const output = allocateDiscounts(inputData, configData);
   console.log(JSON.stringify(output, null, 2));
+  
 }
 
 module.exports = { allocateDiscounts };
